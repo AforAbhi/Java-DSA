@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey I am Abhishek
+    Currently on a learning phase will update it soon 
+### Thank You for the visit
 
 <!--
 **lazywanderer4u/lazywanderer4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
